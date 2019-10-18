@@ -1,0 +1,6 @@
+MODULES_MANAGER_V2
+bookstore.__init__|/home/zxc/.../webapps/workspace/bookstore/bookstore/__init__.py
+bookstore.settings|/home/zxc/.../webapps/workspace/bookstore/bookstore/settings.py
+bookstore.urls|/home/zxc/.../webapps/workspace/bookstore/bookstore/urls.py
+bookstore.wsgi|/home/zxc/.../webapps/workspace/bookstore/bookstore/wsgi.py
+manage|/home/zxc/.../webapps/workspace/bookstore/manage.py

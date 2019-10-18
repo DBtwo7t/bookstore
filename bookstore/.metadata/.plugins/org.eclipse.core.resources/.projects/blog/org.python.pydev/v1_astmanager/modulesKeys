@@ -1,0 +1,6 @@
+MODULES_MANAGER_V2
+blog.__init__|/home/zxc/webapps/git/blog/blog/blog/__init__.py
+blog.settings|/home/zxc/webapps/git/blog/blog/blog/settings.py
+blog.urls|/home/zxc/webapps/git/blog/blog/blog/urls.py
+blog.wsgi|/home/zxc/webapps/git/blog/blog/blog/wsgi.py
+manage|/home/zxc/webapps/git/blog/blog/manage.py
